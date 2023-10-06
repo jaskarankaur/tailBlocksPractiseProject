@@ -1,1 +1,1 @@
-# Used tail blocks to build a respinsive website.
+# Used tail blocks to build a responsive website.
