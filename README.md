@@ -1,0 +1,1 @@
+# Used tail blocks to build a respinsive website.
